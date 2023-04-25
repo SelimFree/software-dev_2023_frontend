@@ -1,0 +1,7 @@
+form.ng-submitted input.ng-invalid {
+    background-color: #ca9974 !important;
+}
+
+.invalid-feedback {
+    display: block;
+}
